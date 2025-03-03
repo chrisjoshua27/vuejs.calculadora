@@ -1,6 +1,6 @@
 <template>
   <div class="container">
-    <h2>Calculadora Aritmética</h2>
+    <h2>Calculadora Aritmética.</h2>
     <div class="inputs">
       <input type="number" v-model="num1" placeholder="Número 1" />
       <select v-model="operacao">
